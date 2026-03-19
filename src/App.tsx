@@ -576,7 +576,7 @@ export default function App() {
                           } else {
                             setScreen('final');
                           }
-                          window.scrollTo({ top: 64, behavior: 'smooth' });
+                      
                         }}
                         className="bg-[#C9A84C] text-[#1a1a1a] px-8 py-3 font-mono font-bold uppercase tracking-widest hover:bg-[#F5F0E8] transition-colors"
                       >
